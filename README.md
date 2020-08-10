@@ -5,3 +5,4 @@ DMLoopingViewDemo
 3. 具体使用方式可以参考Demo中 VC实例化loopingView方法，也可以参考这篇简书 ：
 4. DMLoopingView 参考UITableView 实现数据源和代理，如果需要自定义Cell 继承自DMLoopingViewCell即可
 5. 有问题可以简书留言，That's all, thanks~ 
+https://www.jianshu.com/p/b81d86303db5
